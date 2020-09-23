@@ -1,4 +1,5 @@
 @echo off
-java -jar .\source\dolmodloader-1.0.12.jar
+java -jar .\source\DoLModLoader.jar
 
 pause
+exit
