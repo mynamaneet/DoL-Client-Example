@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-10-02T19:39:29</date>
+  <millis>1601692769730</millis>
+  <sequence>0</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>CONFIG</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:29</date>
+  <millis>1601692769747</millis>
+  <sequence>1</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Current Running Path : C:\Users\alext\Desktop\DOL Example\source\mods</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:29</date>
+  <millis>1601692769757</millis>
+  <sequence>2</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>subscribeMod</method>
+  <thread>1</thread>
+  <message>Mod Folder Name : Example Mod</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:29</date>
+  <millis>1601692769757</millis>
+  <sequence>3</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>subscribeMod</method>
+  <thread>1</thread>
+  <message>Mod Name : Example Mod</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:29</date>
+  <millis>1601692769757</millis>
+  <sequence>4</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>subscribeMod</method>
+  <thread>1</thread>
+  <message>Added mod Example Mod @ C:\Users\alext\Desktop\DOL Example\source\mods\Example Mod</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:29</date>
+  <millis>1601692769757</millis>
+  <sequence>5</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>foreach: Example Mod</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:29</date>
+  <millis>1601692769757</millis>
+  <sequence>6</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Deleting old dol-files...</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:33</date>
+  <millis>1601692773857</millis>
+  <sequence>7</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Deleted old dol-files.</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:33</date>
+  <millis>1601692773857</millis>
+  <sequence>8</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Deleting old imgs...</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:37</date>
+  <millis>1601692777356</millis>
+  <sequence>9</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Deleted old imgs.</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:37</date>
+  <millis>1601692777356</millis>
+  <sequence>10</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Loading dol-files...</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:43</date>
+  <millis>1601692783517</millis>
+  <sequence>11</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Loaded dol-files.</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:43</date>
+  <millis>1601692783517</millis>
+  <sequence>12</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Setting up DOL Subfolders...</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:43</date>
+  <millis>1601692783517</millis>
+  <sequence>13</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finished setting up DOL Subfolders.</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:43</date>
+  <millis>1601692783517</millis>
+  <sequence>14</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Setting up DOL Locations...</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:43</date>
+  <millis>1601692783517</millis>
+  <sequence>15</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finished setting up DOL Locations.</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:43</date>
+  <millis>1601692783517</millis>
+  <sequence>16</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Setting up TweeFiles...</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:43</date>
+  <millis>1601692783517</millis>
+  <sequence>17</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finished setting up TweeFiles.</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:43</date>
+  <millis>1601692783517</millis>
+  <sequence>18</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Setting up DOL Passages...</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:43</date>
+  <millis>1601692783517</millis>
+  <sequence>19</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finished setting up DOL Passages.</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:43</date>
+  <millis>1601692783517</millis>
+  <sequence>20</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Loading mods...</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:43</date>
+  <millis>1601692783517</millis>
+  <sequence>21</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Loading Example Mod | Version: 1.0.7 | Author: mynamaneet</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:43</date>
+  <millis>1601692783527</millis>
+  <sequence>22</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Loaded mods.</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:43</date>
+  <millis>1601692783527</millis>
+  <sequence>23</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Loading imgs...</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:47</date>
+  <millis>1601692787927</millis>
+  <sequence>24</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Loaded imgs.</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:47</date>
+  <millis>1601692787927</millis>
+  <sequence>25</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Creating HTML...</message>
+</record>
+<record>
+  <date>2020-10-02T19:39:48</date>
+  <millis>1601692788957</millis>
+  <sequence>26</sequence>
+  <logger>com.mynamaneet.dolmodloader.ModLoader</logger>
+  <level>INFO</level>
+  <class>com.mynamaneet.dolmodloader.ModLoader</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Created HTML.</message>
+</record>
+</log>
